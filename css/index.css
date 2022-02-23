@@ -1,0 +1,13 @@
+.padding-1 {
+  padding: 1% 8% 0% 8% !important;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  object-position: -20% 0;
+}

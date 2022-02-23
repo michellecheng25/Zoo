@@ -1,3 +1,4 @@
+/** homepage **/
 .padding-1 {
   padding: 1% 8% 0% 8% !important;
 }
@@ -10,4 +11,15 @@
   height: 200px;
   object-fit: cover;
   object-position: -20% 0;
+}
+
+figure {
+  display: block;
+  text-align: center;
+}
+
+blockquote p {
+  padding: 15px;
+  background-color: #eee;
+  border-radius: 5px;
 }
